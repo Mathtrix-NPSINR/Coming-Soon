@@ -1414,8 +1414,9 @@ input::-moz-focus-inner {
   display: inline-block;
   font-family: "metropolis-regular", sans-serif;
   letter-spacing: 0;
-  background-color: #ec008c;
-  color: #FFFFFF;
+  /*background-color: #ec008c;*/
+  /*color: #FFFFFF;*/
+  color: rgba(255, 255, 255, 0.3);
   padding: 9px 12px;
   bottom: 1.3em;
 }

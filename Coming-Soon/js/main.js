@@ -89,14 +89,14 @@
     * ------------------------------------------------------ */
     var ssFinalCountdown = function() {
 
-        var finalDate =  new Date("March 25, 2021 15:37:25").getTime();
+        var finalDate =  new Date("July 21, 2023 09:00:00").getTime();
         //-date: "Mar 25 2021",
 
         $('.home-content__clock').countdown(finalDate)
         .on('update.countdown finish.countdown', function(event) {
 
             var str = '<div class=\"top\"><div class=\"time days\">' +
-                      '%D <span>day%!D</span>' + 
+                      '%D <span>DAYS</span>' +
                       '</div></div>' +
                       '<div class=\"time hours\">' +
                       '%H <span>H</span></div>' +
