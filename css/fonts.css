@@ -1,0 +1,77 @@
+/* ===================================================================
+ * fonts.scss
+ *
+ * ------------------------------------------------------------------- */
+
+
+/*
+ * domine
+================================================================================ */
+@font-face {
+  font-family: "domine-regular";
+  src: url("fontsegular-webfont.woff2") format("woff2"), url("fontsegular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "domine-bold";
+  src: url("fontsold-webfont.woff2") format("woff2"), url("fontsold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+/*
+ * metropolis
+================================================================================ */
+@font-face {
+  font-family: "metropolis-bold";
+  src: url("fontsis-bold-webfont.woff2") format("woff2"), url("fontsis-bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "metropolis-semibold";
+  src: url("fontsis-semibold-webfont.woff2") format("woff2"), url("fontsis-semibold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "metropolis-medium";
+  src: url("fontsis-medium-webfont.woff2") format("woff2"), url("fontsis-medium-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "metropolis-regular";
+  src: url("fontsis-regular-webfont.woff2") format("woff2"), url("fontsis-regular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "metropolis-light";
+  src: url("fontsis-light-webfont.woff2") format("woff2"), url("fontsis-light-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "metropolis-extralight";
+  src: url("fontsis-extralight-webfont.woff2") format("woff2"), url("fontsis-extralight-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "metropolis-italic";
+  src: url("fontsis-regularitalic-webfont.woff2") format("woff2"), url("fontsis-regularitalic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*# sourceMappingURL=fonts.css.map */
